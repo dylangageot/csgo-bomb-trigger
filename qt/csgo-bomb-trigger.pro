@@ -27,6 +27,8 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 INCLUDEPATH += C:/boost/boost_1_64_0
 
+RC_FILE = resource.rc
+
 SOURCES += main.cpp\
     window.cpp \
     json_handler.cpp
