@@ -27,7 +27,7 @@ CS:GO Bomb Trigger will inform a perephiral connected to your computer via the s
 
 ## Command-Line Options
 
-```cmd
+```bash
 -p port  : Connect to the <port> at the start of the application if it's possible
 -h       : Hide the window
 ```
