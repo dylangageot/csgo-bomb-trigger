@@ -32,3 +32,7 @@ CS:GO Bomb Trigger will inform a perephiral connected to your computer via the s
 -h       : Hide the window
 ```
 
+**Example :** I want to launch the program at the start of my comptuter discreetly and connect to the COM3
+ - Put a shortcut of the program in %ProgramData%\Microsoft\Windows\Start Menu\Programs\Startup
+ - Give it theses Command-Line Options : -p COM3 -h
+
