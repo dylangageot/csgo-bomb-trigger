@@ -1,6 +1,7 @@
 # CS:GO Bomb Trigger
 
 CS:GO Bomb Trigger will inform a perephiral connected to your computer via the serial port that the bomb has been planted.
+Perfect to link an Arduino with a display to inform the player about the bomb time left.
 
 ## Features
 
@@ -23,7 +24,7 @@ CS:GO Bomb Trigger will inform a perephiral connected to your computer via the s
  - The whole project is based on [Crow](https://github.com/ipkn/crow/), an open source library that allows the program to handle JSON request.
  - The CS:GO process will communicate by default on the port 30080 with the program.
  - Serial port specifications :
-    - baudrate : 9600 bauds
+    - 9600 bauds
     - 8-data bits
     - no parity bit
  - When the bomb has been planted, the character 'a' will be sent to the peripheral.
