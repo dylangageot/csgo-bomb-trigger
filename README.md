@@ -11,3 +11,16 @@ CS:GO Bomb Trigger will inform a perephiral connected to your computer via the s
 ## GUI preview
 
 ![gui](http://i.imgur.com/oalXG9S.png)
+
+## Notes
+
+* The whole project is based on [Crow](https://github.com/ipkn/crow/), an open source library that allows the program to handle JSON request.
+* Serial port specifications :
+  ** baudrate : 9600 bauds
+  ** 8-data bits
+  ** no parity bit
+* When the bomb has been planted, the character 'a' will be sent to the peripheral.
+* When the round has ended, the character 'b' will be sent to the peripheral.
+* The CS:GO process will communicate by default on the port 30080 with the program.
+* All theses parameters cazn be change in the file "configuration.h" (need a rebuild).
+* The executable given has been built for x86 machine.
