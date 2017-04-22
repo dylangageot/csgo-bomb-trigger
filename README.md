@@ -8,6 +8,12 @@ CS:GO Bomb Trigger will inform a perephiral connected to your computer via the s
  - Created with Qt to provide a GUI
  - Minimizable and auto-connect with cmd options
 
+## Install
+
+1. Download the folder "executable" and the file "gamestate_integration_bt.cfg".
+2. Put "gamestate_integration_bt.cfg" in Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg.
+3. Enjoy by launching "bomb_trigger.exe".
+
 ## GUI preview
 
 ![gui](http://i.imgur.com/oalXG9S.png)
