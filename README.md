@@ -45,5 +45,5 @@ Perfect to link an Arduino with a display to inform the player about the bomb ti
 
 ## Bibliography
 
-- [icon used](http://www.flaticon.com/free-icon/bomb-warning_16562)
+- [Icon used](http://www.flaticon.com/free-icon/bomb-warning_16562)
 - [Game State Integration documentation](https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Game_State_Integration)
