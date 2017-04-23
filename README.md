@@ -1,13 +1,13 @@
 # CS:GO Bomb Trigger
 
 CS:GO Bomb Trigger will inform a perephiral connected to your computer via the serial port that the bomb has been planted.
-Perfect to link an Arduino with a display to inform the player about the bomb time left.
+Perfect to link an Arduino with a display to inform the player about the time left for the bomb explosion.
 
 ## Features
 
- - Based on the Game State Integration features of CS:GO
- - Created with Qt to provide a GUI
- - Minimizable and auto-connect with cmd options
+ - Based on the Game State Integration features of CS:GO.
+ - Created with Qt to provide a GUI.
+ - Minimizable and auto-connect with cmd options.
 
 ## Install
 
