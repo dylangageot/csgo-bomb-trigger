@@ -11,9 +11,9 @@ Perfect to link an Arduino with a display to inform the player about the bomb ti
 
 ## Install
 
-1. Download the folder "executable" and the file "gamestate_integration_bt.cfg".
+1. Download "bomb_trigger_v1.exe" and "gamestate_integration_bt.cfg".
 2. Put "gamestate_integration_bt.cfg" in Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg.
-3. Enjoy by launching "bomb_trigger.exe".
+3. Install and enjoy by launching "bomb_trigger.exe".
 
 ## GUI preview
 
